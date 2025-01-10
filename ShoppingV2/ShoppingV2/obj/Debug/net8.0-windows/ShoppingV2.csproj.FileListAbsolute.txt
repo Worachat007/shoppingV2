@@ -1,0 +1,16 @@
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\bin\Debug\net8.0-windows\ShoppingV2.exe
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\bin\Debug\net8.0-windows\ShoppingV2.deps.json
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\bin\Debug\net8.0-windows\ShoppingV2.runtimeconfig.json
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\bin\Debug\net8.0-windows\ShoppingV2.dll
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\bin\Debug\net8.0-windows\ShoppingV2.pdb
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.Form1.resources
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.csproj.GenerateResource.cache
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.AssemblyInfoInputs.cache
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.AssemblyInfo.cs
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.csproj.CoreCompileInputs.cache
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.dll
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\refint\ShoppingV2.dll
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.pdb
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.genruntimeconfig.cache
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ref\ShoppingV2.dll

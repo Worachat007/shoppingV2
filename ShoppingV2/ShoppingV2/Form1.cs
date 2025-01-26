@@ -2,12 +2,70 @@ namespace ShoppingV2
 {
     public partial class Form1 : Form
     {
+        Item itemCoffee = new Item();
+        Item itemGreenTea = new Item();
+        Item itemBerger = new Item();
+        Item itemPizza = new Item();
+        Discountitem disocuntAll = new Discountitem();
+        Discountitem disocuntWater = new Discountitem();
+        Discountitem disocuntFood = new Discountitem();
+
+
+
+
+
         public Form1()
         {
             InitializeComponent();
+            // object data
+            itemCoffee.name = "Coffee";
+            itemCoffee.price = 30;
+            cf_Price.Text = itemCoffee.price.ToString();
+            cf_Price.ReadOnly = true;
+
+
+            itemGreenTea.name = "Green Tea";
+            itemGreenTea.price = 35;
+            gt_Price.Text = itemGreenTea.price.ToString(); 
+            gt_Price.ReadOnly = true;
+
+
+            itemBerger.name = "Berger";
+            itemBerger.price = 50;
+            bg_Price.Text = itemBerger.price.ToString();
+            gt_Price.ReadOnly = true;
+
+
+            itemPizza.name = "Pizza";
+            itemPizza.price = 80;
+            pz_Price.Text = itemPizza.price.ToString();
+            pz_Price.ReadOnly = true;
+
+
+
+            //discount play data
+            disocuntAll.name = "All";
+            disocuntAll.per = 15;
+            tbAll.Text = disocuntAll.per.ToString();
+            tbAll.ReadOnly = true;
+
+
+            disocuntWater.name = "Water";
+            disocuntWater.per = 5;
+            tbWater.Text = disocuntWater.per.ToString(); 
+            tbWater.ReadOnly = true;
+            
+
+            disocuntFood.name = "Food";
+            disocuntFood.per = 10;
+            tbFood.Text = disocuntFood.per.ToString();
+            tbFood.ReadOnly = true;
         }
         private double textFuntion(TextBox cf_Price, TextBox cf_Quantity, TextBox gt_Price, TextBox gt_Quantity, CheckBox checkCoffee, CheckBox checkGreenTea2)
         {
+            
+
+
             string inputCFP = cf_Price.Text;
             string inputCFQ = cf_Quantity.Text;
             string inputGTP = gt_Price.Text;

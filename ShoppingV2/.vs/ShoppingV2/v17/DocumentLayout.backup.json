@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{430FA31F-027B-4C1A-B469-62568946873A}|ShoppingV2\\ShoppingV2.csproj|solutionrelative:shoppingv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{430FA31F-027B-4C1A-B469-62568946873A}|ShoppingV2\\ShoppingV2.csproj|c:\\cs\\github\\shoppingv2\\shoppingv2\\shoppingv2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430FA31F-027B-4C1A-B469-62568946873A}|ShoppingV2\\ShoppingV2.csproj|solutionrelative:shoppingv2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{430FA31F-027B-4C1A-B469-62568946873A}|ShoppingV2\\ShoppingV2.csproj|C:\\cs\\Github\\shoppingV2\\ShoppingV2\\shoppingv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{430FA31F-027B-4C1A-B469-62568946873A}|ShoppingV2\\ShoppingV2.csproj|solutionrelative:shoppingv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -26,9 +30,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\cs\\Github\\shoppingV2\\ShoppingV2\\ShoppingV2\\Form1.cs",
               "RelativeDocumentMoniker": "ShoppingV2\\Form1.cs",
-              "ToolTip": "C:\\cs\\Github\\shoppingV2\\ShoppingV2\\ShoppingV2\\Form1.cs",
-              "RelativeToolTip": "ShoppingV2\\Form1.cs",
-              "ViewState": "AgIAABYBAAAAAAAAAAAYwI4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\cs\\Github\\shoppingV2\\ShoppingV2\\ShoppingV2\\Form1.cs*",
+              "RelativeToolTip": "ShoppingV2\\Form1.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T15:24:25.098Z",
               "IsPinned": true,
@@ -37,13 +41,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\cs\\Github\\shoppingV2\\ShoppingV2\\ShoppingV2\\Item.cs",
+              "RelativeDocumentMoniker": "ShoppingV2\\Item.cs",
+              "ToolTip": "C:\\cs\\Github\\shoppingV2\\ShoppingV2\\ShoppingV2\\Item.cs",
+              "RelativeToolTip": "ShoppingV2\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:48:13.465Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\cs\\Github\\shoppingV2\\ShoppingV2\\ShoppingV2\\Form1.cs",
               "RelativeDocumentMoniker": "ShoppingV2\\Form1.cs",
-              "ToolTip": "C:\\cs\\Github\\shoppingV2\\ShoppingV2\\ShoppingV2\\Form1.cs [Design]",
-              "RelativeToolTip": "ShoppingV2\\Form1.cs [Design]",
+              "ToolTip": "C:\\cs\\Github\\shoppingV2\\ShoppingV2\\ShoppingV2\\Form1.cs [Design]*",
+              "RelativeToolTip": "ShoppingV2\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:21:38.11Z"
+              "WhenOpened": "2025-01-09T15:21:38.11Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

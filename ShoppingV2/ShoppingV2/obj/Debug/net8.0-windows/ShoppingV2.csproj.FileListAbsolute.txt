@@ -14,3 +14,4 @@ C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\refint\Sh
 C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.pdb
 C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.genruntimeconfig.cache
 C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ref\ShoppingV2.dll
+C:\cs\Github\shoppingV2\ShoppingV2\ShoppingV2\obj\Debug\net8.0-windows\ShoppingV2.sourcelink.json

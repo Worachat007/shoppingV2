@@ -128,6 +128,7 @@
             // 
             // cf_Price
             // 
+            cf_Price.Enabled = false;
             cf_Price.Location = new Point(155, 29);
             cf_Price.Name = "cf_Price";
             cf_Price.Size = new Size(125, 27);
@@ -135,6 +136,7 @@
             // 
             // gt_Price
             // 
+            gt_Price.Enabled = false;
             gt_Price.Location = new Point(155, 78);
             gt_Price.Name = "gt_Price";
             gt_Price.Size = new Size(125, 27);
@@ -142,6 +144,7 @@
             // 
             // cf_Quantity
             // 
+            cf_Quantity.Enabled = false;
             cf_Quantity.Location = new Point(329, 30);
             cf_Quantity.Name = "cf_Quantity";
             cf_Quantity.Size = new Size(125, 27);
@@ -149,6 +152,7 @@
             // 
             // gt_Quantity
             // 
+            gt_Quantity.Enabled = false;
             gt_Quantity.Location = new Point(329, 78);
             gt_Quantity.Name = "gt_Quantity";
             gt_Quantity.Size = new Size(125, 27);
@@ -204,6 +208,7 @@
             // 
             // pz_Price
             // 
+            pz_Price.Enabled = false;
             pz_Price.Location = new Point(155, 78);
             pz_Price.Name = "pz_Price";
             pz_Price.Size = new Size(125, 27);
@@ -211,6 +216,7 @@
             // 
             // pz_Quantity
             // 
+            pz_Quantity.Enabled = false;
             pz_Quantity.Location = new Point(329, 78);
             pz_Quantity.Name = "pz_Quantity";
             pz_Quantity.Size = new Size(125, 27);
@@ -229,6 +235,7 @@
             // 
             // bg_Quantity
             // 
+            bg_Quantity.Enabled = false;
             bg_Quantity.Location = new Point(329, 30);
             bg_Quantity.Name = "bg_Quantity";
             bg_Quantity.Size = new Size(125, 27);
@@ -247,6 +254,7 @@
             // 
             // bg_Price
             // 
+            bg_Price.Enabled = false;
             bg_Price.Location = new Point(155, 29);
             bg_Price.Name = "bg_Price";
             bg_Price.Size = new Size(125, 27);
@@ -610,6 +618,7 @@
             // 
             // tbFood
             // 
+            tbFood.Enabled = false;
             tbFood.Location = new Point(191, 122);
             tbFood.Name = "tbFood";
             tbFood.Size = new Size(125, 27);
@@ -617,6 +626,7 @@
             // 
             // tbWater
             // 
+            tbWater.Enabled = false;
             tbWater.Location = new Point(191, 77);
             tbWater.Name = "tbWater";
             tbWater.Size = new Size(125, 27);
@@ -624,6 +634,7 @@
             // 
             // tbAll
             // 
+            tbAll.Enabled = false;
             tbAll.Location = new Point(191, 26);
             tbAll.Name = "tbAll";
             tbAll.Size = new Size(125, 27);
